@@ -1,0 +1,7 @@
+V3 3
+FL //afs/auto2/classes/6.111/eq/verilog/rs232.vhd 2010/12/03.00:54:50 I.34
+EN work/Rs232RefComp 1291496235    FL //afs/auto2/classes/6.111/eq/verilog/rs232.vhd \
+      PB ieee/std_logic_1164 1155947332 PB ieee/std_logic_arith 1155947334 \
+      PB ieee/STD_LOGIC_UNSIGNED 1155947338
+AR work/Rs232RefComp/Behavioral 1291496236 FL //afs/auto2/classes/6.111/eq/verilog/rs232.vhd \
+      EN work/Rs232RefComp 1291496235

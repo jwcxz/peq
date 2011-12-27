@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="timeline.svg"
+   inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/sys-audio.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3818"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3800"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3794"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68413978"
+     inkscape:cx="190.80578"
+     inkscape:cy="222.87829"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="638"
+     inkscape:window-height="1007"
+     inkscape:window-x="1440"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 57.75,485.94551 501.89873,0"
+       id="path11407"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       sodipodi:linespacing="125%"
+       id="text11597"
+       y="518.61218"
+       x="179.91666"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="518.61218"
+         x="179.91666"
+         sodipodi:role="line"
+         id="tspan11704">Audio Subsystem,</tspan><tspan
+         style="font-size:14px"
+         y="536.11218"
+         x="179.91666"
+         sodipodi:role="line"
+         id="tspan11708">RAM &amp; Controller</tspan><tspan
+         style="font-size:14px"
+         y="553.61218"
+         x="179.91666"
+         sodipodi:role="line"
+         id="tspan11613">Built &amp; Tested</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 177.91667,466.36218 0,37.91667"
+       id="path11619"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="177.5"
+       y="460.86218"
+       id="text11621"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11623"
+         x="177.5"
+         y="460.86218">Nov 26</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="339.91666"
+       y="518.61218"
+       id="text11625"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11627"
+         x="339.91666"
+         y="518.61218"
+         style="font-size:14px">UI Subsystems</tspan><tspan
+         id="tspan11629"
+         sodipodi:role="line"
+         x="339.91666"
+         y="536.11218"
+         style="font-size:14px">Built &amp; Tested</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path11631"
+       d="m 337.91667,466.36218 0,37.91667"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11633"
+       y="460.86218"
+       x="337.5"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="460.86218"
+         x="337.5"
+         id="tspan11635"
+         sodipodi:role="line">Nov 30</tspan></text>
+    <text
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       sodipodi:linespacing="125%"
+       id="text11637"
+       y="518.61218"
+       x="459.91666"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="518.61218"
+         x="459.91666"
+         sodipodi:role="line"
+         id="tspan11641">Display</tspan><tspan
+         style="font-size:14px"
+         y="536.11218"
+         x="459.91666"
+         sodipodi:role="line"
+         id="tspan11651">Built &amp; Tested</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 457.91667,466.36218 0,37.91667"
+       id="path11643"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="457.5"
+       y="460.86218"
+       id="text11645"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11647"
+         x="457.5"
+         y="460.86218">Dec 3</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path11672"
+       d="m 97.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 117.91667,472.06627 0,26.50848"
+       id="path11674"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11676"
+       d="m 157.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 237.91667,472.06627 0,26.50848"
+       id="path11678"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11680"
+       d="m 277.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11684"
+       d="m 229.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 269.91667,472.06627 0,26.50848"
+       id="path11686"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 393.91667,472.06627 0,26.50848"
+       id="path11692"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11694"
+       d="m 385.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11696"
+       d="m 437.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 429.91667,472.06627 0,26.50848"
+       id="path11698"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 317.91667,472.06627 0,26.50848"
+       id="path11700"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11702"
+       d="m 309.91667,472.06627 0,26.50848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/timeline.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>

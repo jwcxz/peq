@@ -1,0 +1,3 @@
+[ ] add variable delay on ifft input
+[ ] fix fft display -- show absolute values or magnitudes
+[ ] clean up code

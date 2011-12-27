@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="speaker.svg"
+   inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/blockdiagram.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3800"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3794"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7142857"
+     inkscape:cx="390.49992"
+     inkscape:cy="166.31693"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1438"
+     inkscape:window-height="883"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4658"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="matrix(0.46699851,0,0,0.46699851,92.923953,716.07999)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.14133453;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4646"
+         width="379.03964"
+         height="234.25938"
+         x="26.965118"
+         y="254.36349" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.14133453px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 45.28463,474.98319 347.38075,0"
+         id="path4648"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.14133453px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.85973,268.81897 0,210.93103"
+         id="path4650"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#f59000;stroke-width:2.14133453px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 48.85973,403.93876 C 124.91523,242.85755 274.56111,327.07759 387.89858,290.26959"
+         id="path4652"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="146.41666"
+       y="852.27887"
+       id="text11342"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11344"
+         x="146.41666"
+         y="852.27887"
+         style="font-size:14px">Speaker </tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11348"
+       width="177.01096"
+       height="109.39878"
+       x="305.51663"
+       y="834.86737"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 314.0718,937.89643 162.2263,0"
+       id="path11350"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 315.74137,841.61805 0,98.50448"
+       id="path11352"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#f59000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 315.74137,859.63546 c 35.51781,58.69179 105.40221,28.00525 158.33064,41.41667"
+       id="path11354"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11356"
+       y="852.27887"
+       x="375.33331"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         style="font-size:14px"
+         y="852.27887"
+         x="375.33331"
+         id="tspan11358"
+         sodipodi:role="line">Normalized Gain</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="309.66666"
+       y="862.77887"
+       id="text11364"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11366"
+         x="309.66666"
+         y="862.77887"
+         style="font-size:14px">1</tspan></text>
+    <rect
+       y="834.86737"
+       x="505.51663"
+       height="109.39878"
+       width="177.01096"
+       id="rect11368"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11370"
+       d="m 514.0718,937.89643 162.2263,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11372"
+       d="m 515.74137,841.61805 0,98.50448"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path11374"
+       d="m 515.74137,899.88546 158.33064,0"
+       style="fill:none;stroke:#f59000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="555.33331"
+       y="852.27887"
+       id="text11376"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11378"
+         x="555.33331"
+         y="852.27887"
+         style="font-size:14px">Flat Output</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text11380"
+       y="862.77887"
+       x="509.66666"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         style="font-size:14px"
+         y="862.77887"
+         x="509.66666"
+         id="tspan11382"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="109.66666"
+       y="862.77887"
+       id="text11384"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/j/docs/class/6.111/eq/presentation/speaker.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan11386"
+         x="109.66666"
+         y="862.77887"
+         style="font-size:14px">1</tspan></text>
+  </g>
+</svg>

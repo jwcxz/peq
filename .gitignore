@@ -1,0 +1,7 @@
+*.log
+*.tex
+*.aux
+*.project.vim
+xilinx
+project
+rs232

@@ -1,0 +1,12 @@
+button  function
+
+
+switch  function
+0       input method
+1       "
+2       ---
+3       0: audio_in_data = left_in_data  1: = sine_data
+4       0: left_out_data = out_data      1: = audio_in_data
+5       manually enable ifft
+6       0: choose nongaincurve       1: choose gaincurve
+7       0: choose least sigbits      1: choose most sigbits of fft_out

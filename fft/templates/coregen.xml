@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RootFolder label="COREGEN" treetype="folder" language="COREGEN">
+	<Folder label="VERILOG Component Instantiation" treetype="folder">
+		<Template label="fft" treetype="template">
+ 
+ 
+// The following must be inserted into your Verilog file for this
+// core to be instantiated. Change the instance name and port connections
+// (in parentheses) to your own signal names.
+ 
+fft YourInstanceName (
+    .xn_re(xn_re),
+    .xn_im(xn_im),
+    .start(start),
+    .fwd_inv(fwd_inv),
+    .fwd_inv_we(fwd_inv_we),
+    .ce(ce),
+    .clk(clk),
+    .xk_re(xk_re),
+    .xk_im(xk_im),
+    .xn_index(xn_index),
+    .xk_index(xk_index),
+    .rfd(rfd),
+    .busy(busy),
+    .dv(dv),
+    .edone(edone),
+    .done(done));
+
+ 
+		</Template>
+	</Folder>
+	<Folder label="VHDL Component Instantiation" treetype="folder">
+		<Template label="fft" treetype="template">
+ 
+ 
+-- The following code must appear in the VHDL architecture header:
+ 
+component fft
+    port (
+    xn_re: IN std_logic_VECTOR(11 downto 0);
+    xn_im: IN std_logic_VECTOR(11 downto 0);
+    start: IN std_logic;
+    fwd_inv: IN std_logic;
+    fwd_inv_we: IN std_logic;
+    ce: IN std_logic;
+    clk: IN std_logic;
+    xk_re: OUT std_logic_VECTOR(25 downto 0);
+    xk_im: OUT std_logic_VECTOR(25 downto 0);
+    xn_index: OUT std_logic_VECTOR(12 downto 0);
+    xk_index: OUT std_logic_VECTOR(12 downto 0);
+    rfd: OUT std_logic;
+    busy: OUT std_logic;
+    dv: OUT std_logic;
+    edone: OUT std_logic;
+    done: OUT std_logic);
+end component;
+
+
+
+ 
+-------------------------------------------------------------
+ 
+-- The following code must appear in the VHDL architecture body.
+-- Substitute your own instance name and net names.
+ 
+your_instance_name : fft
+        port map (
+            xn_re =&gt; xn_re,
+            xn_im =&gt; xn_im,
+            start =&gt; start,
+            fwd_inv =&gt; fwd_inv,
+            fwd_inv_we =&gt; fwd_inv_we,
+            ce =&gt; ce,
+            clk =&gt; clk,
+            xk_re =&gt; xk_re,
+            xk_im =&gt; xk_im,
+            xn_index =&gt; xn_index,
+            xk_index =&gt; xk_index,
+            rfd =&gt; rfd,
+            busy =&gt; busy,
+            dv =&gt; dv,
+            edone =&gt; edone,
+            done =&gt; done);
+ 
+		</Template>
+	</Folder>
+</RootFolder>

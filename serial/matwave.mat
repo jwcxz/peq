@@ -1,0 +1,3 @@
+x = [0:8191];
+y = uint8((x-322).^2/8); plot(x,y);
+dlmwrite('test',y,'\n');

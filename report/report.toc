@@ -1,0 +1,38 @@
+\contentsline {chapter}{\numberline {1}Overview}{1}
+\contentsline {chapter}{\numberline {2}Description}{2}
+\contentsline {section}{\numberline {1}Overall Architecture}{2}
+\contentsline {section}{\numberline {2}Audio Subsystem}{2}
+\contentsline {subsection}{\numberline {2.1}AC'97 Layer}{2}
+\contentsline {subsection}{\numberline {2.2}FFT}{2}
+\contentsline {subsection}{\numberline {2.3}Gain Curve Application}{4}
+\contentsline {subsection}{\numberline {2.4}IFFT}{5}
+\contentsline {section}{\numberline {3}Display Subsystem}{5}
+\contentsline {subsection}{\numberline {3.1}Gain Curve Display}{5}
+\contentsline {subsection}{\numberline {3.2}FFT Display}{6}
+\contentsline {section}{\numberline {4}Input Subsystem}{6}
+\contentsline {subsection}{\numberline {4.1}Serial Input}{6}
+\contentsline {subsection}{\numberline {4.2}Incremental Input}{7}
+\contentsline {subsection}{\numberline {4.3}Mouse Input}{9}
+\contentsline {section}{\numberline {5}Testing and Debugging}{9}
+\contentsline {chapter}{\numberline {3}Conclusion}{10}
+\contentsline {section}{\numberline {1}Design Summary}{10}
+\contentsline {section}{\numberline {2}Known Issues}{10}
+\contentsline {section}{\numberline {3}Areas for Improvement and Future Development}{10}
+\contentsline {chapter}{\numberline {4}References}{12}
+\contentsline {chapter}{\numberline {5}Appendices}{13}
+\contentsline {section}{\numberline {1}Verilog Listing (top-level): labkit.v}{13}
+\contentsline {section}{\numberline {2}Verilog Listing: peq.v}{23}
+\contentsline {section}{\numberline {3}Verilog Listing: ram.v}{33}
+\contentsline {section}{\numberline {4}Verilog Listing: xvga.v}{34}
+\contentsline {section}{\numberline {5}Verilog Listing: fftdisplay.v}{35}
+\contentsline {section}{\numberline {6}Verilog Listing: gcdisplay.v}{36}
+\contentsline {section}{\numberline {7}Verilog Listing: gcserinp.v}{37}
+\contentsline {section}{\numberline {8}Verilog Listing: gcmodinp.v}{39}
+\contentsline {section}{\numberline {9}Verilog Listing: gcrecomp.v}{43}
+\contentsline {section}{\numberline {10}Verilog Listing: gcreset.v}{46}
+\contentsline {section}{\numberline {11}Verilog Listing: ac97.v}{47}
+\contentsline {section}{\numberline {12}VHDL Listing: rs232.vhd}{56}
+\contentsline {section}{\numberline {13}Verilog Listing: debounce.v}{64}
+\contentsline {section}{\numberline {14}Verilog Listing: display\_16hex.v}{65}
+\contentsline {section}{\numberline {15}Python Listing: makewave.py}{70}
+\contentsline {section}{\numberline {16}Python Listing: xfer.py}{71}
