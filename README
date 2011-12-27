@@ -1,0 +1,8 @@
+Audio equalizers are important tools for adjusting the gains of various
+frequencies in an audio sample so that the sound output is more desirable.
+Typically, they are used to help offset unique differences in the frequency
+responses of speakers in order to more accurately replicate the original sound
+that was recorded. This report describes the design and implementation of a
+parametric equalizer, a device that an important additional benefit over
+conventional equalizers: it allows the user to construct an audio filter of
+nearly any shape.
